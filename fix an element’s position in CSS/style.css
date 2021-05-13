@@ -1,3 +1,9 @@
-.main-section{
-    
-}
+/* suppose you want to fix your sidebar’s position and size */
+.main-section {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 300px;
+    height: 150px;
+    background-color: blue;
+  }
